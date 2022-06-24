@@ -2,7 +2,7 @@
 title: "About this blog"
 description: "What im planning to post here and more"
 date: 2022-06-23T23:13:43+01:00
-draft: true
+draft: false
 slug: "first-post"
 image: "cover.jpg"
 categories:
